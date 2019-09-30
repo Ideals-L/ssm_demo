@@ -1,3 +1,0 @@
-hello git
-num2
-num3
